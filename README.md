@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on cryptoposten.js ...
-- ⚡ Fun fact: https://cryptoposten.no
+- 🔭 I’m currently working on a homepage...
+- ⚡ https://cryptoposten.no
 
